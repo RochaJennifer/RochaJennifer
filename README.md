@@ -27,7 +27,7 @@ Olá! Sou Jennifer Souza, uma estudante apaixonado por tecnologia.
 
 ## Contato
 - E-mail: jenniferocha4@gmail.com
-- LinkedIn: [linkedin.com/seuperfil](https://www.linkedin.com/in/jennifer-souza-437058237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BheeDKMH9QHWoCQuQT5lEbw%3D%3D)
+- LinkedIn: [linkedin.com/Jennifer Souza](https://www.linkedin.com/in/jennifer-souza-437058237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BheeDKMH9QHWoCQuQT5lEbw%3D%3D)
 - GitHub: github.com/RochaJennifer
 
 ## Como usar este README
