@@ -8,15 +8,12 @@ int main(){
 	scanf("%d%d%d", &x, &y, &z);
 	
 	if (x >= y || x >= z){
-		
 		x = m1;
 		
 	if (y >= m1 || y >= z){
-		
 		y = m2;
 	
 	if (z >= m1 || z >= m2){
-		
 		z = m3;
 			
 	}
