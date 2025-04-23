@@ -11,11 +11,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # 1) Faz o checkout do seu repo
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # 2) Gera a snake com suas cores
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -26,9 +24,9 @@ jobs:
           output_branch: output
           color_snake: "#da70d6"
           color_dots: "#9fc2ff,#fcba3d,#ffc5de,#ffb6c1,#ffe4e1"
-          **github_token: ${{ secrets.GITHUB_TOKEN }}**
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3) Comita e envia o resultado pro branch de output
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
         with:
