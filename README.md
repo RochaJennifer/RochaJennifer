@@ -1,39 +1,48 @@
-## Olá, mundo! 👋 Eu sou a RochaJennifer
+# Olá, mundo! 🌸✨  
+Eu sou a Jennifer Rocha🦋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RochaJennifer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RochaJennifer-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-silva-barreto-9b3a48210/)
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaJennifer&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=transparent" />
+---
+
+## 🧠 Um pouquinho sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFBA.
+- 💻 Apaixonada por tecnologia, programação e resolver bugs como quem resolve um quebra-cabeça.
+- 🌈 Sempre buscando aprender algo novo e me desafiar.
+- 🎮 Amo tomar café e ficar horas mexendo em código até funcionar 🫶.
+
+---
+
+## 🛠️ Minhas ferramentas favoritas
+
+<div style="display:inline_block">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-db7093?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-f8c8dc?style=for-the-badge&logo=python&logoColor=black"/>
 </div>
 
 ---
 
-## 🚀 Tecnologias que uso e estou estudando
+## 💖 Estatísticas
 
-<div style="display:inline_block"><br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</div><br>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine&rank_icon=github" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=rose_pine" alt="Top Langs"/>
+</div>
 
 ---
 
-## ✨ Um pouco sobre mim
+## 🐍 Snake fofa contribuindo todo dia
 
-- 🎓 Estudante de [sua área/curso aqui — ex: Análise e Desenvolvimento de Sistemas].
-- 💻 Apaixonada por tecnologia, desenvolvimento e resolver problemas com código.
-- 📚 Sempre buscando aprender mais e me desafiar com novos projetos.
-- 🎮 Curto jogos, café e mexer com código até fazer funcionar 😄.
-
----
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake.svg" />
 </picture>
 
+---
 
+✨ Obrigada por passar aqui! Bora codar juntas? 💻💜
