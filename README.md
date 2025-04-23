@@ -43,7 +43,6 @@ Eu sou a Jennifer Rocha🦋
   <img alt="snake animation" src="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ---
 
 ✨ Obrigada por passar aqui! Bora codar juntas? 💻💜
