@@ -46,4 +46,4 @@ Eu sou a Jennifer Rocha🦋
 
 ---
 
-✨ Obrigada por passar aqui! Bora codar juntas? 💻💜 
+✨ Obrigada por passar aqui! Bora codar juntas? 💻💜
