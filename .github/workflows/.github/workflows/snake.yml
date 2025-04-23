@@ -17,8 +17,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#da70d6"
-          color_dots: "#f9c2ff,#fcbad3,#fcd5ce,#ffb6c1,#ffe4e1"
+          output_branch: output
+          color_snake: "#da70d6"  # lilás
+          color_dots: "#9fc2ff,#fcba3d,#ffc5de,#ffb6c1,#ffe4e1"  # azul bebê, amarelo pastel, rosa pastel...
 
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
