@@ -26,6 +26,7 @@ jobs:
           output_branch: output
           color_snake: "#da70d6"
           color_dots: "#9fc2ff,#fcba3d,#ffc5de,#ffb6c1,#ffe4e1"
+          **github_token: ${{ secrets.GITHUB_TOKEN }}**
 
       # 3) Comita e envia o resultado pro branch de output
       - name: Commit & Push
