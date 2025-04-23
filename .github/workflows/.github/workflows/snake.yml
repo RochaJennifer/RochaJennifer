@@ -1,0 +1,28 @@
+name: Generate Snake Animation 🐍✨
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: RochaJennifer
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          color_snake: "#da70d6"
+          color_dots: "#f9c2ff,#fcbad3,#fcd5ce,#ffb6c1,#ffe4e1"
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "gera snake animada 🌸"
