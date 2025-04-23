@@ -38,8 +38,6 @@ Eu sou a Jennifer Rocha🦋
 ## 🐍 Snake fofa contribuindo todo dia
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake.svg">
 </picture>
 
