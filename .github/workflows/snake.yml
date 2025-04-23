@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          ref: output  # checkout no branch de saída
 
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
@@ -30,3 +32,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "gera snake animada 🌸"
+          push: true
