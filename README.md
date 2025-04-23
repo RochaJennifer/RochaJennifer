@@ -1,34 +1,34 @@
-# README Pessoal de Jennifer
+## Olá, mundo! 👋 Eu sou a RochaJennifer
 
-## Introdução
-Olá! Sou Jennifer Souza, uma estudante apaixonado por tecnologia.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RochaJennifer)
 
-## Habilidades
-- Linguagens de Programação: Python, HTML/CSS, C
-- Ferramentas: Git, Docker, VS Code, dev c++, Replit, Portugol, 
-- Habilidades de Comunicação: Comunicação eficaz, trabalho em equipe
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaJennifer&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=transparent" />
+</div>
 
-## Experiência
-- Estágio em suporte e manutenção tecnica
-- Estágio em infraestrutura
+---
+
+## 🚀 Tecnologias que uso e estou estudando
+
+<div style="display:inline_block"><br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div><br>
+
+---
+
+## ✨ Um pouco sobre mim
+
+- 🎓 Estudante de [sua área/curso aqui — ex: Análise e Desenvolvimento de Sistemas].
+- 💻 Apaixonada por tecnologia, desenvolvimento e resolver problemas com código.
+- 📚 Sempre buscando aprender mais e me desafiar com novos projetos.
+- 🎮 Curto jogos, café e mexer com código até fazer funcionar 😄.
+
+---
 
 
-## Projetos
-- Sistema de Gestão da Biblioteca Escolar: Desenvolvido um sistema abrangente de gestão da biblioteca escolar, que automatiza processos administrativos.
-
-## Educação
-- Bacharelado em Sistemas de Informação, Universidade Estacio (cursando)
-- Tecnologo em Analise e desenvolvimento de Sistemas, IFBA (cursando)
-- Técnico em informática, Góes Calmon (2021 - 2023)
-  
-## Interesses
-- Hobbies: Leitura, volêi, música
-- Atividades Extracurriculares: Voluntariado em abrigos de animais, Aulas de culinária
-
-## Contato
-- E-mail: jenniferocha4@gmail.com
-- LinkedIn: [linkedin.com/Jennifer Souza](https://www.linkedin.com/in/jennifer-souza-437058237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BheeDKMH9QHWoCQuQT5lEbw%3D%3D)
-- GitHub: github.com/RochaJennifer
-
-## Como usar este README
-Sinta-se à vontade para se inspirar neste README para criar o seu próprio! Você também pode entrar em contato comigo para colaborações ou oportunidades de trabalho.
