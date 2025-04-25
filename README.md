@@ -11,7 +11,7 @@ Eu sou a Jennifer Rocha🦋
 - 💻 Apaixonada por tecnologia, programação e resolver bugs como quem resolve um quebra-cabeça.
 - 🌈 Sempre buscando aprender algo novo e me desafiar.
 - 🎮 Amo tomar café e ficar horas mexendo em código até funcionar 🫶.
-
+  
 ---
 
 ## 🛠️ Minhas ferramentas favoritas
