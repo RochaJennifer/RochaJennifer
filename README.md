@@ -33,14 +33,5 @@ Eu sou a Jennifer Rocha🦋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=rose_pine" alt="Top Langs"/>
 </div>
 
----
-
-## 🐍 Snake fofa contribuindo todo dia
-
-<picture>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ✨ Obrigada por passar aqui! Bora codar juntas? 💻💜
