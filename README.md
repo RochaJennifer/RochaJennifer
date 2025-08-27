@@ -1,7 +1,7 @@
 # Olá, mundo! 🌸✨  
 Eu sou a Jennifer Souza🦋
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-RochaJennifer-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RochaJennifer-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-souza1/)
 
 ---
 
