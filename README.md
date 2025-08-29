@@ -29,8 +29,8 @@ Eu sou a Jennifer Souza🦋
 ## 💖 Estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine&rank_icon=github" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=rose_pine" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=rose_pine&count_private=true" alt="Top Langs"/>
 </div>
 
 
