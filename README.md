@@ -1,17 +1,20 @@
 # Olá, mundo! 🌸✨  
-Eu sou a Jennifer Souza🦋
+Eu sou a Jennifer Rocha🦋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RochaJennifer-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-souza1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RochaJennifer-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-silva-barreto-9b3a48210/)
 
 ---
 
 ## 🧠 Um pouquinho sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFBA.
+- 💻 Tecnica de Informática.
+- 🎓 2° semestre de Análise e Desenvolvimento de Sistemas no IFBA.
+- 🎓 3° semestrede Sistemas de Informação na Estacio.
+- 👨🏽‍💼 Atualmente atuando na area de nnfraestrutura como estagiária, na Defensoria Pública do Estado da Bahia.
 - 💻 Apaixonada por tecnologia, programação e resolver bugs como quem resolve um quebra-cabeça.
 - 🌈 Sempre buscando aprender algo novo e me desafiar.
-- 🎮 Amo tomar café e ficar horas mexendo em código até funcionar 🫶.
-  
+- 🎮 Amo tomar café, ler livros e ficar horas mexendo em código até funcionar 🫶.
+
 ---
 
 ## 🛠️ Minhas ferramentas favoritas
@@ -29,9 +32,18 @@ Eu sou a Jennifer Souza🦋
 ## 💖 Estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=rose_pine&count_private=true" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine&rank_icon=github" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=rose_pine" alt="Top Langs"/>
 </div>
 
+---
+
+## 🐍 Snake fofa contribuindo todo dia
+
+<picture>
+  <img alt="snake animation dark" src="https://raw.githubusercontent.com/RochaJennifer/RochaJennifer/output/dist/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
 
 ✨ Obrigada por passar aqui! Bora codar juntas? 💻💜
