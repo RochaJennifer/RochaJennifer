@@ -37,4 +37,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada p
 
 ---
 
+## 📊 Estatísticas
+
+<div align="left">
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine"
+       alt="GitHub Stats"/>
+
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=rose_pine"
+       alt="Top Languages"/>
+</div>
+
+---
+
 ✨ *Sempre aberta a colaborações e trocas de conhecimento sobre tecnologia!*
