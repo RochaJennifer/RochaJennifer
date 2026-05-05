@@ -1,6 +1,6 @@
 # Olá, eu sou a Jennifer Rocha! 🦋✨
 
-**Desenvolvedora em Formação | Entusiasta de Backend**
+**Desenvolvedora Backend**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada por tecnologia. Atualmente, estou dedicando meu tempo e energia ao aprendizado de **Backend**, focando meus estudos em **.NET** e **C#** para construir aplicações sólidas e eficientes.
 
@@ -9,10 +9,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada p
 ---
 
 ## 🧠 Sobre Mim
-- 📚 **Estudos:** Aprofundando em lógica de programação e arquitetura de sistemas.
-- 🌎 **Idioma:** Estudando inglês técnico para documentação e desenvolvimento.
-- ☕ **Lifestyle:** Movida a café, livros de fantasia.
 
+- 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (IFBA).
+- 💻 **Foco Atual:** Desenvolvimento Backend com C#.
+- ☕ **Lifestyle:** Movida a café, livros de fantasia e a curiosidade constante de aprender algo novo.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -39,16 +39,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada p
 
 ## 📊 Estatísticas
 
-<div align="left">
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine"
-       alt="GitHub Stats"/>
-
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RochaJennifer&layout=donut&theme=rose_pine"
-       alt="Top Languages"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Jennifer"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaJennifer&layout=compact&theme=rose_pine&hide=html,css" alt="Linguagens mais utilizadas"/>
 </div>
 
 ---
 
-✨ *Sempre aberta a colaborações e trocas de conhecimento sobre tecnologia!*
+### 📫 Vamos nos conectar?
+
+Sempre aberta a trocas de experiências, colaborações em projetos de estudo e networking sobre o mundo Backend!
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*
