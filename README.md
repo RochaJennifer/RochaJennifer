@@ -33,8 +33,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada p
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=e6a8d7&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RochaJennifer&layout=compact&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=e6a8d7&hide=html,css" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RochaJennifer&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=e6a8d7&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RochaJennifer&layout=compact&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=e6a8d7&hide=html,css&count_private=true" />
 </p>
 
 ---
